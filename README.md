@@ -1,5 +1,6 @@
 # Resources for O'Reilly Online Learning course, "Python-Powered Excel"
-# This repo is now deprecated; please see [O'Reilly's Binderhub repo](https://resources.oreilly.com/binderhub/python-powered-excel-take-control-of-your-data-by-automating-excel-spreadsheets/).
+
+<!--- # This repo is now deprecated; please see [O'Reilly's Binderhub repo](https://resources.oreilly.com/binderhub/python-powered-excel-take-control-of-your-data-by-automating-excel-spreadsheets/). --->
  
 # **Up and running with Python in Excel** (50 minutes)
 
